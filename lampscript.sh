@@ -16,6 +16,3 @@ else
 	sudo systemctl enable apache2
 fi
 echo "Apache Installation is Done."
-
-echo  Installing phpMyAdmin...
-sudo apt-get install phpmyadmin -y
